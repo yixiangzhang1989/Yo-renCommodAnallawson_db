@@ -6,7 +6,6 @@ Created on Wed Aug 30 13:35:03 2017
 """
 
 import sshtunnel,pymysql,time
-import numpy as np
 import pandas as pd
 
 
