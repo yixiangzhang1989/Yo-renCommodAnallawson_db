@@ -6,7 +6,6 @@ Created on Wed Aug 30 13:35:03 2017
 """
 
 import sshtunnel,pymysql,time
-import pandas as pd
 
 
 #输入数据库的用户名和密码
